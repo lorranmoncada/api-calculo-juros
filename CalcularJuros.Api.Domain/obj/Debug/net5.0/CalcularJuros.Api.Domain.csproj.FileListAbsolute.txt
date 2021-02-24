@@ -1,0 +1,15 @@
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\bin\Debug\net5.0\CalcularJuros.Api.Domain.deps.json
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\bin\Debug\net5.0\CalcularJuros.Api.Domain.dll
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\bin\Debug\net5.0\ref\CalcularJuros.Api.Domain.dll
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\bin\Debug\net5.0\CalcularJuros.Api.Domain.pdb
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\bin\Debug\net5.0\CalcularJuros.Api.Core.dll
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\bin\Debug\net5.0\CalcularJuros.Api.Core.pdb
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.csprojAssemblyReference.cache
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.AssemblyInfoInputs.cache
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.AssemblyInfo.cs
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.csproj.CopyComplete
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.dll
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\ref\CalcularJuros.Api.Domain.dll
+C:\Estudos\CalcularJuros\CalcularJuros.Api.Domain\obj\Debug\net5.0\CalcularJuros.Api.Domain.pdb

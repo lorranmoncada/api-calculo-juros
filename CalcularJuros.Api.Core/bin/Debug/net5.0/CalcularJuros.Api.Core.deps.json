@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalcularJuros.Api.Core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.5.1",
+          "Newtonsoft.Json": "12.0.3",
+          "Refit": "6.0.24"
+        },
+        "runtime": {
+          "CalcularJuros.Api.Core.dll": {}
+        }
+      },
+      "FluentValidation/9.5.1": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.5.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Refit/6.0.24": {
+        "dependencies": {
+          "System.Net.Http.Json": "5.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/Refit.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.24.20825"
+          }
+        }
+      },
+      "System.Net.Http.Json/5.0.0": {}
+    }
+  },
+  "libraries": {
+    "CalcularJuros.Api.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/9.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-By09e2m4N3giD7Giq8NCFgkgN5Hkm8Lv/bk8AadD9Xc6jjj2WDGrD6l9keZbWbkO9aygiHQREIt47iS2sVSU7w==",
+      "path": "fluentvalidation/9.5.1",
+      "hashPath": "fluentvalidation.9.5.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Refit/6.0.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hirF5tK01RVlC4P+3PUjkaOnR4R8SYvt0sOcjR6j3UnFs2pv3mj8CLVij5AWRLGW1h0TUL48+RTvzDySosyT0g==",
+      "path": "refit/6.0.24",
+      "hashPath": "refit.6.0.24.nupkg.sha512"
+    },
+    "System.Net.Http.Json/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3CPSQpCzEmI9o+1G79TnPCjF40omCdnoXj2Rg76BDwGj5+LZnFPjV+t35eedlvl+uthmholk/XXxXTYgJWSexw==",
+      "path": "system.net.http.json/5.0.0",
+      "hashPath": "system.net.http.json.5.0.0.nupkg.sha512"
+    }
+  }
+}

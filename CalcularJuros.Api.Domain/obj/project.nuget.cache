@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6JJFpWJafB7sP4pesH5NFp97PZvMYVzNmhJeI63+nX10/enFMMNUsxQDJjmS2cVFEBkd6mxM+TAa8HpRunT2g==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\CalcularJuros\\CalcularJuros.Api.Domain\\CalcularJuros.Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lmm\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\lmm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\lmm\\.nuget\\packages\\refit\\6.0.24\\refit.6.0.24.nupkg.sha512",
+    "C:\\Users\\lmm\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
